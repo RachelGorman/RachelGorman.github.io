@@ -150,7 +150,7 @@ figcaption {
   margin-top: 2%;}
 
 img {
-  height: 400px;
+  height: 100%;
   display: inline-block;
   float: left;
  /* margin-bottom: 2%;
