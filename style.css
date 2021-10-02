@@ -143,6 +143,7 @@ iframe {
 figcaption {
   color: black;
   font-style: italic;
+  padding-top: 2%;
   padding-bottom:3%;
   text-align: left;
   font-size: 10pt;
