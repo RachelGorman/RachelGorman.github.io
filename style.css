@@ -130,6 +130,14 @@ iframe {
   float: left;
 }
 
+figcaption {
+  background-color: black;
+  color: white;
+  font-style: italic;
+  padding: 2px;
+  text-align: left;
+  font-size: 10pt;}
+
 img {
   height: 400px;
   display: inline-block;
