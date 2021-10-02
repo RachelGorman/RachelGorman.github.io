@@ -1,12 +1,12 @@
 body {
-  font-family: monospace;
+  font-family: "Arial";
   margin: 2em;
   width: 100%;
   height: 100%;
 }
 
 h1 {
-  color: #373fff;
+  color: #0C0664;
   font-size: 18pt;
 }
 .special-h2{
@@ -18,7 +18,7 @@ h2 {
 }
 
 button {
-  font-family: "Inconsolata", monospace;
+  font-family: "Arial";
   background-color: black;
   border: none;
   color: white;
@@ -94,7 +94,7 @@ li.bullet {
 }
 
 li.bullet a {
-  color: blue;
+  color: black;
 }
 
 li a {
@@ -146,7 +146,7 @@ body .gist .blob-wrapper {
 
 body .gist .highlight {
   background-color: transparent;
-  font-family: "Droid Sans Mono", monospace;
+  font-family: "arial";
   font-size: 14px;
 }
 
@@ -192,7 +192,7 @@ body .gist .gist-meta {
 
 @media only screen and (max-width: 600px) {
   body {
-    font-family: "Inconsolata", monospace;
+    font-family: "Inconsolata";
     margin: 1%;
     width: 98%;
     height: 100%;
